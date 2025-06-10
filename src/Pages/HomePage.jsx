@@ -2,10 +2,11 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Header from '../components/Header/Header'
 
+
 const HomePage = () =>{
     return(
         <div>
-            <Header/>
+            <Header />
              <div ClassName="all">
                       <h1 id="demo">Welcome to Vivekanand College!</h1>
                        <p id="demo2">Your journey to excellence starts here.</p>
