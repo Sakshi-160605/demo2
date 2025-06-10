@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 
 import './AdmissionPage.css'
-import Header from '../components/Header/Header'
+import Header from '../Components/Header/Header'
 const AdmissionsPage = () => {
     return (
         <div className="home-scroll-container">
